@@ -8,7 +8,7 @@
 *We understand that not everyone is familar with GitHub and we wouldn't like that to become an obstacle to adding your works here, so if that's the case please reach out on [Discord](https://vega.xyz/discord) and other community memebers will gladly give you a hand.
 
 # Sticker requirements
-1. PNG file
+1. PNG file (Uploading an additional SVG version would also be cool)
 2. Transparent background
 3. 512 px by 512 px
 4. Should also look good at 320px by 320px
