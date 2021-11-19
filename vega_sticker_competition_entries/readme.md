@@ -6,3 +6,9 @@
 3. Make sure that you submit the stickers one by one and that each individual entry is named "[Vega Forum Username] - [Sticker Name]". For example: "_Daig - Hixel_1_". This will allow us to identify your submission and reward you if you win a prize.
 
 *We understand that not everyone is familar with GitHub and we wouldn't like that to become an obstacle to adding your works here, so if that's the case please reach out on [Discord](https://vega.xyz/discord) and other community memebers will gladly give you a hand.
+
+# Sticker requirements
+1. PNG file
+2. Transparent background
+3. 512 px by 512 px
+4. Should also look good at 320px by 320px
